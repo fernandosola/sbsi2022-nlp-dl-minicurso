@@ -1,2 +1,7 @@
-# sbsi2022-nlp-dl-minicurso
-Minicurso ministrado no SBSI 2022
+# Minicurso Processamento de Linguagem Natural com Deep Learning
+
+## SBSI 2022
+
+Autores:
+- Eduardo Soares de Paiva
+- Fernando Sola Pereira
